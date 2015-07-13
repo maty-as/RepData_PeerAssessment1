@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1436798458360.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9D41979A",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6ovvpnw4xd",
+        "caption" : "activityDataImp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=activityDataImp&cache_key=6ovvpnw4xd",
+        "displayedObservations" : "17568",
+        "environment" : "",
+        "object" : "activityDataImp",
+        "totalObservations" : "17568",
+        "variables" : "4"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
